@@ -1,0 +1,14 @@
+layout_spectrum: 0.3744709
+typography_spectrum: 0.8061225
+color:
+  saturation: 0.2969925
+  lightness: 0.0718797
+  brandStrength: 0.8694951
+  brandColors:
+    - '#FEFEFE'
+    - '#554572'
+    - '#C8C8C8'
+    - '#E5FC00'
+    - '#A9B526'
+  rhythmicContrast: 0.7427498
+name: Yugi.vn
