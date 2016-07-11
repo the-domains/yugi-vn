@@ -1,28 +1,40 @@
-name: Yugi.vn
 favicon: null
-layout_spectrum: 0.61427
-typography_spectrum: 0.8061225
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Yugi.vn
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.5
+  brandStrength: 0
+  lightness: 0.4802867
   brandColors:
     - '#FEFEFE'
     - '#554572'
     - '#C8C8C8'
     - '#E5FC00'
     - '#A9B526'
-  brandStrength: 0.5
-  lightness: 1
-  saturation: 1
-  rhythmicContrast: 0.25
-purpose: []
+  rhythmicContrast: 0.4659498
+typography_spectrum: 0.8061225
+layout_spectrum: 0.61427
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
