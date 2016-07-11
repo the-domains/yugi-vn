@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Yugi.vn]]></title>
         <description><![CDATA[Yugi.vn]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/yugi-vn/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jul 2016 02:57:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Jul 2016 03:00:52 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/yugi-vn/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Logo của Glavenus]]></title>
+            <description><![CDATA[<article><h1>Logo của Glavenus</h1><p>Coi chừng cái đuôi của ảnh</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/27dad74979309e6d7fb94a05504144a13dd8e452.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/e71f78b1-ff0e-40df-bccb-67519407d5d9.jpg</link>
+            <guid isPermaLink="false">d271fd97-5d11-45cb-98d3-46ae96fcad5f</guid>
+            <pubDate>Mon, 11 Jul 2016 03:00:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Glavenus]]></title>
             <description><![CDATA[<article><h1>Glavenus</h1><p>Nghe đồn nhân vật chính nhà ta mạnh dữ lắm đấy</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4620d531-3662-461a-b325-f00bf3736923.jpg"></article>]]></description>
