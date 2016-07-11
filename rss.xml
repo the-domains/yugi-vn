@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Yugi.vn]]></title>
+        <description><![CDATA[Yugi.vn]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 11 Jul 2016 02:57:29 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Glavenus]]></title>
+            <description><![CDATA[<article><h1>Glavenus</h1><p>Nghe đồn nhân vật chính nhà ta mạnh dữ lắm đấy</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4620d531-3662-461a-b325-f00bf3736923.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/4620d531-3662-461a-b325-f00bf3736923.jpg</link>
+            <guid isPermaLink="false">503525e6-b627-47cc-9f66-0d6d1129f512</guid>
+            <pubDate>Mon, 11 Jul 2016 02:57:27 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
